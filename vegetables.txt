@@ -1,1 +1,2 @@
 1 Potato
+2 Garlic
